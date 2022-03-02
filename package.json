@@ -1,7 +1,6 @@
 {
   "name": "mynewapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -15,5 +14,15 @@
     "express-generator": "^4.16.1",
     "nodemon": "^2.0.15",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex2534/nodeExpressSimpleCrud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex2534/nodeExpressSimpleCrud/issues"
+  },
+  "homepage": "https://github.com/alex2534/nodeExpressSimpleCrud#readme",
+  "description": ""
 }
